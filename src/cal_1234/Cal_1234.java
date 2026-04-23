@@ -25,4 +25,5 @@ public class Cal_1234 {
     public int multiply(int x, int y) {
         return x*y;
     }
+    // #1
 }
