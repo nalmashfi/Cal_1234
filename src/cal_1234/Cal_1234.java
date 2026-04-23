@@ -15,7 +15,8 @@ public class Cal_1234 {
     public int subtract(int x, int y) {
         return x-y;
     }
-    
+
+    // divide two numbers
     public int divide(int x, int y) {
         return x/y;
     } 
