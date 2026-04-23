@@ -26,4 +26,5 @@ public class Cal_1234 {
         return x*y;
     }
     // #1
+    // #2
 }
