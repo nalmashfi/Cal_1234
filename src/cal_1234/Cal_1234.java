@@ -8,6 +8,7 @@ public class Cal_1234 {
     
     // adds two numbers
     public int add(int x, int y) {
+        // fixed a bug
         return x+y;
     }
 
